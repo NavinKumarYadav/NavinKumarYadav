@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnitesh147&label=Profile%20views&color=0e75b6&style=flat" alt="nnitesh147" /> </p>
 
-- 🔭 I’m currently working on [ChatHub](Link Coming Soon)
+- 🔭 I’m currently working on [AnnaSeva](Link Coming Soon)
 
-- 🌱 I’m currently learning **NextJs ,**
+- 🌱 I’m currently learning **SpringBoot ,**
 
-- 💬 Ask me about **React , JavaScript , Java , NodeJS , DSA**
+- 💬 Ask me about **React , JavaScript , Java ,JDBC, Hibernate, Servlet, JSP, SpringMVC, SpringBoot, NodeJS , DSA**
 
-- 📫 How to reach me **nniteshprasad147@gmail.com**
+- 📫 How to reach me **navin1sepkumar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a2zh5EF56W6-WF_4fvRBVVF7ctMpvbLs/view?usp=sharing](https://drive.google.com/file/d/1a2zh5EF56W6-WF_4fvRBVVF7ctMpvbLs/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1a2zh5EF56W6-WF_4fvRBVVF7ctMpvbLs/view?usp=sharing]([https://drive.google.com/file/d/1a2zh5EF56W6-WF_4fvRBVVF7ctMpvbLs/view?usp=sharing](https://drive.google.com/file/d/13nb6LZn4Rn-eOHff0pjl-Bk8DuPd02BP/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
