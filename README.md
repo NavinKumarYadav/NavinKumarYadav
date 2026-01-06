@@ -7,7 +7,7 @@
 
 - 🌱 Learning **Spring Boot (Advanced concepts)**
 
-- 💬  Tech focus: **React , JavaScript , Java ,JDBC, Hibernate, Servlet, JSP, SpringMVC, SpringBoot, NodeJS , DSA**
+- 💬  Tech focus: **Java, Spring Boot, React, SQL React, DSA**
 
 - 📫 Contact: **navin1sepkumar@gmail.com**
 
