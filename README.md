@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NavinKumarYadav&label=Profile%20views&color=0e75b6&style=flat" alt="NavinKumarYadav" /> </p>
 
-- 🔭 I’m currently working on [BiblioTrack](Link Coming Soon)
+- 🔭 Currently working on **BiblioTrack** (Library Management System)
 
-- 🌱 I’m currently learning **SpringBoot ,**
+- 🌱 Learning **Spring Boot (Advanced concepts)**
 
-- 💬 Ask me about **React , JavaScript , Java ,JDBC, Hibernate, Servlet, JSP, SpringMVC, SpringBoot, NodeJS , DSA**
+- 💬  Tech focus: **React , JavaScript , Java ,JDBC, Hibernate, Servlet, JSP, SpringMVC, SpringBoot, NodeJS , DSA**
 
-- 📫 How to reach me **navin1sepkumar@gmail.com**
+- 📫 Contact: **navin1sepkumar@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13nb6LZn4Rn-eOHff0pjl-Bk8DuPd02BP/view?usp=sharing]
 
