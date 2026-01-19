@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on **BiblioTrack** (Library Management System)
 
-- 🌱 Learning **Spring Boot (Advanced concepts)**
+- 🌱 Learning **Spring Boot (Advancedconcepts)**
 
 - 💬  Tech focus: **Java, Spring Boot, React, SQL, DSA**
 
